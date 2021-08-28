@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\ObliDA.domain\ObliDA.Domain.csproj" />
+    <ProjectReference Include="..\ObliDA.entityframeworkcore\ObliDA.EntityFrameworkCore.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>
