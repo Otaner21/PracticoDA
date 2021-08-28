@@ -14,4 +14,8 @@
     <PackageReference Include="Microsoft.entityframeworkcore.sqlserver" Version="5.0.9" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\obliDA.Domain\ObliDA.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

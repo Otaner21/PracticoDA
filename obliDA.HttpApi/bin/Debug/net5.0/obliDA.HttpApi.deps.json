@@ -33,7 +33,7 @@
     ".NETCoreApp,Version=v5.0": {
       "obliDA.HttpApi/1.0.0": {
         "dependencies": {
-          "ObliDA.EntityFrameworkCore": "1.0.0",
+          "ObliDA.Application": "1.0.0",
           "Swashbuckle.AspNetCore": "5.6.3",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
@@ -1359,11 +1359,32 @@
           "System.Xml.XmlDocument": "4.3.0"
         }
       },
+      "ObliDA.Application/1.0.0": {
+        "dependencies": {
+          "ObliDA.Domain": "1.0.0",
+          "ObliDA.EntityFrameworkCore": "1.0.0"
+        },
+        "runtime": {
+          "ObliDA.Application.dll": {}
+        },
+        "compile": {
+          "ObliDA.Application.dll": {}
+        }
+      },
+      "ObliDA.Domain/1.0.0": {
+        "runtime": {
+          "ObliDA.Domain.dll": {}
+        },
+        "compile": {
+          "ObliDA.Domain.dll": {}
+        }
+      },
       "ObliDA.EntityFrameworkCore/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "5.0.9",
           "Microsoft.EntityFrameworkCore.InMemory": "5.0.9",
-          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.9"
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.9",
+          "ObliDA.Domain": "1.0.0"
         },
         "runtime": {
           "ObliDA.EntityFrameworkCore.dll": {}
@@ -3772,6 +3793,16 @@
       "sha512": "sha512-MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    },
+    "ObliDA.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ObliDA.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "ObliDA.EntityFrameworkCore/1.0.0": {
       "type": "project",

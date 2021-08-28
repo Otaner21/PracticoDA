@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using ObliDA.Domain;
 
 namespace ObliDA.EntityFrameworkCore
 {

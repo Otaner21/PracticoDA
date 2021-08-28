@@ -13,3 +13,21 @@ C:\Users\renat\Desktop\ORT\repoPrueba\Practicoclase\obliDA.EntityFrameworkCore\o
 C:\Users\renat\Desktop\ORT\repoPrueba\Practicoclase\oblida.entityframeworkcore\bin\Debug\net5.0\ObliDA.EntityFrameworkCore.runtimeconfig.json
 C:\Users\renat\Desktop\ORT\repoPrueba\Practicoclase\oblida.entityframeworkcore\bin\Debug\net5.0\ObliDA.EntityFrameworkCore.runtimeconfig.dev.json
 C:\Users\renat\Desktop\ORT\repoPrueba\Practicoclase\oblida.entityframeworkcore\obj\Debug\net5.0\ObliDA.EntityFrameworkCore.genruntimeconfig.cache
+D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\oblida.entityframeworkcore\bin\Debug\net5.0\ObliDA.EntityFrameworkCore.deps.json
+D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\oblida.entityframeworkcore\bin\Debug\net5.0\ObliDA.EntityFrameworkCore.runtimeconfig.json
+D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\oblida.entityframeworkcore\bin\Debug\net5.0\ObliDA.EntityFrameworkCore.runtimeconfig.dev.json
+D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\oblida.entityframeworkcore\bin\Debug\net5.0\ObliDA.EntityFrameworkCore.dll
+D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\oblida.entityframeworkcore\bin\Debug\net5.0\ref\ObliDA.EntityFrameworkCore.dll
+D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\oblida.entityframeworkcore\bin\Debug\net5.0\ObliDA.EntityFrameworkCore.pdb
+D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\oblida.entityframeworkcore\obj\Debug\net5.0\ObliDA.EntityFrameworkCore.csproj.AssemblyReference.cache
+D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\oblida.entityframeworkcore\obj\Debug\net5.0\ObliDA.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\oblida.entityframeworkcore\obj\Debug\net5.0\ObliDA.EntityFrameworkCore.AssemblyInfoInputs.cache
+D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\oblida.entityframeworkcore\obj\Debug\net5.0\ObliDA.EntityFrameworkCore.AssemblyInfo.cs
+D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\oblida.entityframeworkcore\obj\Debug\net5.0\ObliDA.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\oblida.entityframeworkcore\obj\Debug\net5.0\ObliDA.EntityFrameworkCore.dll
+D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\oblida.entityframeworkcore\obj\Debug\net5.0\ref\ObliDA.EntityFrameworkCore.dll
+D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\oblida.entityframeworkcore\obj\Debug\net5.0\ObliDA.EntityFrameworkCore.pdb
+D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\oblida.entityframeworkcore\obj\Debug\net5.0\ObliDA.EntityFrameworkCore.genruntimeconfig.cache
+D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\obliDA.EntityFrameworkCore\bin\Debug\net5.0\ObliDA.Domain.dll
+D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\obliDA.EntityFrameworkCore\bin\Debug\net5.0\ObliDA.Domain.pdb
+D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\obliDA.EntityFrameworkCore\obj\Debug\net5.0\ObliDA.EntityFrameworkCore.csproj.CopyComplete

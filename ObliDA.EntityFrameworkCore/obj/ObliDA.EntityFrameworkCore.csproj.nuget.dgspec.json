@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\renat\\Desktop\\ORT\\repoPrueba\\Practicoclase\\obliDA.EntityFrameworkCore\\ObliDA.EntityFrameworkCore.csproj": {}
+    "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\obliDA.EntityFrameworkCore\\ObliDA.EntityFrameworkCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\renat\\Desktop\\ORT\\repoPrueba\\Practicoclase\\obliDA.EntityFrameworkCore\\ObliDA.EntityFrameworkCore.csproj": {
+    "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\obliDA.Domain\\ObliDA.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\renat\\Desktop\\ORT\\repoPrueba\\Practicoclase\\obliDA.EntityFrameworkCore\\ObliDA.EntityFrameworkCore.csproj",
-        "projectName": "ObliDA.EntityFrameworkCore",
-        "projectPath": "C:\\Users\\renat\\Desktop\\ORT\\repoPrueba\\Practicoclase\\obliDA.EntityFrameworkCore\\ObliDA.EntityFrameworkCore.csproj",
-        "packagesPath": "C:\\Users\\renat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\renat\\Desktop\\ORT\\repoPrueba\\Practicoclase\\obliDA.EntityFrameworkCore\\obj\\",
+        "projectUniqueName": "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\obliDA.Domain\\ObliDA.Domain.csproj",
+        "projectName": "ObliDA.Domain",
+        "projectPath": "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\obliDA.Domain\\ObliDA.Domain.csproj",
+        "packagesPath": "C:\\Users\\Rena\\.nuget\\packages\\",
+        "outputPath": "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\obliDA.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\renat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rena\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -31,6 +31,67 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\obliDA.EntityFrameworkCore\\ObliDA.EntityFrameworkCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\obliDA.EntityFrameworkCore\\ObliDA.EntityFrameworkCore.csproj",
+        "projectName": "ObliDA.EntityFrameworkCore",
+        "projectPath": "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\obliDA.EntityFrameworkCore\\ObliDA.EntityFrameworkCore.csproj",
+        "packagesPath": "C:\\Users\\Rena\\.nuget\\packages\\",
+        "outputPath": "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\obliDA.EntityFrameworkCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\obliDA.Domain\\ObliDA.Domain.csproj": {
+                "projectPath": "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\obliDA.Domain\\ObliDA.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace ObliDA.EntityFrameworkCore
+namespace ObliDA.Domain
 {
     public class WeatherForecast
     {
