@@ -1,0 +1,15 @@
+C:\Users\renat\Desktop\ORT\repoPrueba\Practicoclase\obliDA.EntityFrameworkCore\bin\Debug\net5.0\ObliDA.EntityFrameworkCore.deps.json
+C:\Users\renat\Desktop\ORT\repoPrueba\Practicoclase\obliDA.EntityFrameworkCore\bin\Debug\net5.0\ObliDA.EntityFrameworkCore.dll
+C:\Users\renat\Desktop\ORT\repoPrueba\Practicoclase\obliDA.EntityFrameworkCore\bin\Debug\net5.0\ref\ObliDA.EntityFrameworkCore.dll
+C:\Users\renat\Desktop\ORT\repoPrueba\Practicoclase\obliDA.EntityFrameworkCore\bin\Debug\net5.0\ObliDA.EntityFrameworkCore.pdb
+C:\Users\renat\Desktop\ORT\repoPrueba\Practicoclase\obliDA.EntityFrameworkCore\obj\Debug\net5.0\ObliDA.EntityFrameworkCore.csproj.AssemblyReference.cache
+C:\Users\renat\Desktop\ORT\repoPrueba\Practicoclase\obliDA.EntityFrameworkCore\obj\Debug\net5.0\ObliDA.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat\Desktop\ORT\repoPrueba\Practicoclase\obliDA.EntityFrameworkCore\obj\Debug\net5.0\ObliDA.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Users\renat\Desktop\ORT\repoPrueba\Practicoclase\obliDA.EntityFrameworkCore\obj\Debug\net5.0\ObliDA.EntityFrameworkCore.AssemblyInfo.cs
+C:\Users\renat\Desktop\ORT\repoPrueba\Practicoclase\obliDA.EntityFrameworkCore\obj\Debug\net5.0\ObliDA.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Users\renat\Desktop\ORT\repoPrueba\Practicoclase\obliDA.EntityFrameworkCore\obj\Debug\net5.0\ObliDA.EntityFrameworkCore.dll
+C:\Users\renat\Desktop\ORT\repoPrueba\Practicoclase\obliDA.EntityFrameworkCore\obj\Debug\net5.0\ref\ObliDA.EntityFrameworkCore.dll
+C:\Users\renat\Desktop\ORT\repoPrueba\Practicoclase\obliDA.EntityFrameworkCore\obj\Debug\net5.0\ObliDA.EntityFrameworkCore.pdb
+C:\Users\renat\Desktop\ORT\repoPrueba\Practicoclase\oblida.entityframeworkcore\bin\Debug\net5.0\ObliDA.EntityFrameworkCore.runtimeconfig.json
+C:\Users\renat\Desktop\ORT\repoPrueba\Practicoclase\oblida.entityframeworkcore\bin\Debug\net5.0\ObliDA.EntityFrameworkCore.runtimeconfig.dev.json
+C:\Users\renat\Desktop\ORT\repoPrueba\Practicoclase\oblida.entityframeworkcore\obj\Debug\net5.0\ObliDA.EntityFrameworkCore.genruntimeconfig.cache
