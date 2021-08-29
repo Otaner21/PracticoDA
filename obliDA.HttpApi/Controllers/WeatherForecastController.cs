@@ -55,13 +55,14 @@ namespace obliDA.HttpApi.Controllers
           {
               _forecastService.Update(forecast);
               return Ok();
-          }
+          }*/
+         
           [HttpDelete]
-          public IActionResult Put(int forecastId)
+          public IActionResult Delete(int forecastId)
           {
               _forecastService.Delete(forecastId);
               return Ok();
           }
-          */
+          
     }
 }

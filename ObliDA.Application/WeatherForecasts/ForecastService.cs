@@ -43,7 +43,12 @@ namespace ObliDA.Application.WeatherForecasts
         {
             _context.Add(Mapper.ToModel(forecast));
             _context.SaveChanges();
+        }
 
+        public void Delete(int id)
+        {
+            _context.Remove(_context.WeatherForecasts.FirstOrDefault(w => w.Id == id));
+            _context.SaveChanges();
         }
     }
 }
