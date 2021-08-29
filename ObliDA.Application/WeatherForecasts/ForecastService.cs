@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
+using Microsoft.EntityFrameworkCore;
 using ObliDA.Application.WeatherForecasts.Dtos;
 using ObliDA.Domain;
 using ObliDA.EntityFrameworkCore;
@@ -31,6 +32,18 @@ namespace ObliDA.Application.WeatherForecasts
             }
 
             return forecasts.Select(Mapper.ToDto);
+        }
+
+        public WeatherForecastOutPutDto Get(int id)
+        {
+            return Mapper.ToDto(_context.WeatherForecasts.FirstOrDefault(w => w.Id == id));
+        }
+        
+        public void Create (WeatherForecastsInputDto forecast)
+        {
+            _context.Add(Mapper.ToModel(forecast));
+            _context.SaveChanges();
+
         }
     }
 }

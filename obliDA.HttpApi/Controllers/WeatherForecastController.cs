@@ -16,9 +16,9 @@ namespace obliDA.HttpApi.Controllers
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
-        
         private readonly Context _context;
         private readonly ForecastService _forecastService;
+
         public WeatherForecastController(Context context)
         {
             _context = context;
@@ -31,6 +31,37 @@ namespace obliDA.HttpApi.Controllers
             return _forecastService.GetAll();
         }
 
-        
+
+        [HttpGet("{id}")]
+        public IActionResult Get(int id)
+        {
+            return Ok(_forecastService.Get(id));
+            /* var forecast = _forecastService.Get(id);
+             if (forecast == null)
+             {
+                 return NotFound();
+             }
+             return Ok(forecast);*/
+        }
+
+         [HttpPost]
+          public IActionResult Post([FromBody] WeatherForecastsInputDto forecast)
+          {
+              _forecastService.Create(forecast);
+              return Ok();
+          }
+         /* [HttpPut]
+          public IActionResult Put([FromBody] WeatherForecastInputDto forecast)
+          {
+              _forecastService.Update(forecast);
+              return Ok();
+          }
+          [HttpDelete]
+          public IActionResult Put(int forecastId)
+          {
+              _forecastService.Delete(forecastId);
+              return Ok();
+          }
+          */
     }
 }

@@ -17,5 +17,17 @@ namespace ObliDA.Application.WeatherForecasts
                 //UserId = forecast.UserId
             };
         }
+
+        public static WeatherForecast ToModel(WeatherForecastsInputDto forecast)
+        {
+            return new WeatherForecast
+            {
+                //Id = forecast.Id,
+                Date = forecast.Date,
+                Summary = forecast.Summary,
+                TemperatureC = forecast.TemperatureC,
+                // UserId = forecast.UserId
+            };
+        }
     }
 }

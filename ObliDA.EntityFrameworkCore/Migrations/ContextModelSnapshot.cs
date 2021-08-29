@@ -19,7 +19,7 @@ namespace ObliDA.EntityFrameworkCore.Migrations
                 .HasAnnotation("ProductVersion", "5.0.9")
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-            modelBuilder.Entity("ObliDA.EntityFrameworkCore.WeatherForecast", b =>
+            modelBuilder.Entity("ObliDA.Domain.WeatherForecast", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
