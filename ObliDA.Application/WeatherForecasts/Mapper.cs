@@ -14,7 +14,7 @@ namespace ObliDA.Application.WeatherForecasts
                 Summary = forecast.Summary,
                 TemperatureC = forecast.TemperatureC,
                 //TemperatureF = forecast.TemperatureF,
-                //UserId = forecast.UserId
+                UserId = forecast.UserId
             };
         }
 
@@ -26,7 +26,26 @@ namespace ObliDA.Application.WeatherForecasts
                 Date = forecast.Date,
                 Summary = forecast.Summary,
                 TemperatureC = forecast.TemperatureC,
-                // UserId = forecast.UserId
+                //UserId = forecast.UserId
+            };
+        }
+
+        public static UserOutputDto DtoUser(User u)
+        {
+            return new UserOutputDto
+            {
+                Id = u.Id,
+                Username = u.Username,
+                Forecasts = u.Forecasts
+            };
+        }
+
+        public static User ToModelUser(UserInputDto user)
+        {
+            return new User
+            {
+                Username = user.Username,
+                Forecasts = user.Forecasts
             };
         }
     }

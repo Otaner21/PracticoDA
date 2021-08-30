@@ -20,7 +20,7 @@ namespace ObliDA.Application.WeatherForecasts
         {
             var forecasts = new List<WeatherForecast>();
 
-            if (!_context.WeatherForecasts.Any())
+           /* if (!_context.WeatherForecasts.Any())
             {
                 forecasts.AddRange(ForecastFactory.NewWeek());
                 _context.WeatherForecasts.AddRange(forecasts);
@@ -29,8 +29,8 @@ namespace ObliDA.Application.WeatherForecasts
             else
             {
                 forecasts.AddRange(_context.WeatherForecasts);
-            }
-
+            }*/
+           forecasts.AddRange(_context.WeatherForecasts);
             return forecasts.Select(Mapper.ToDto);
         }
 
