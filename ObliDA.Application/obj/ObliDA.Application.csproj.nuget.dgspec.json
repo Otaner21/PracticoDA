@@ -1,41 +1,39 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\obliDA.Application\\ObliDA.Application.csproj": {}
+    "/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.Application/ObliDA.Application.csproj": {}
   },
   "projects": {
-    "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\obliDA.Application\\ObliDA.Application.csproj": {
+    "/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.Application/ObliDA.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\obliDA.Application\\ObliDA.Application.csproj",
+        "projectUniqueName": "/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.Application/ObliDA.Application.csproj",
         "projectName": "ObliDA.Application",
-        "projectPath": "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\obliDA.Application\\ObliDA.Application.csproj",
-        "packagesPath": "C:\\Users\\Rena\\.nuget\\packages\\",
-        "outputPath": "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\obliDA.Application\\obj\\",
+        "projectPath": "/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.Application/ObliDA.Application.csproj",
+        "packagesPath": "/Users/lucianotourn/.nuget/packages/",
+        "outputPath": "/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.Application/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Rena\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/lucianotourn/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\ObliDA.domain\\ObliDA.Domain.csproj": {
-                "projectPath": "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\ObliDA.domain\\ObliDA.Domain.csproj"
+              "/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.Domain/ObliDA.Domain.csproj": {
+                "projectPath": "/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.Domain/ObliDA.Domain.csproj"
               },
-              "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\ObliDA.entityframeworkcore\\ObliDA.EntityFrameworkCore.csproj": {
-                "projectPath": "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\ObliDA.entityframeworkcore\\ObliDA.EntityFrameworkCore.csproj"
+              "/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.EntityFrameworkCore/ObliDA.EntityFrameworkCore.csproj": {
+                "projectPath": "/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.EntityFrameworkCore/ObliDA.EntityFrameworkCore.csproj"
               }
             }
           }
@@ -64,31 +62,29 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\obliDA.Domain\\ObliDA.Domain.csproj": {
+    "/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.Domain/ObliDA.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\obliDA.Domain\\ObliDA.Domain.csproj",
+        "projectUniqueName": "/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.Domain/ObliDA.Domain.csproj",
         "projectName": "ObliDA.Domain",
-        "projectPath": "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\obliDA.Domain\\ObliDA.Domain.csproj",
-        "packagesPath": "C:\\Users\\Rena\\.nuget\\packages\\",
-        "outputPath": "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\obliDA.Domain\\obj\\",
+        "projectPath": "/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.Domain/ObliDA.Domain.csproj",
+        "packagesPath": "/Users/lucianotourn/.nuget/packages/",
+        "outputPath": "/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.Domain/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Rena\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/lucianotourn/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -121,39 +117,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\obliDA.EntityFrameworkCore\\ObliDA.EntityFrameworkCore.csproj": {
+    "/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.EntityFrameworkCore/ObliDA.EntityFrameworkCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\obliDA.EntityFrameworkCore\\ObliDA.EntityFrameworkCore.csproj",
+        "projectUniqueName": "/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.EntityFrameworkCore/ObliDA.EntityFrameworkCore.csproj",
         "projectName": "ObliDA.EntityFrameworkCore",
-        "projectPath": "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\obliDA.EntityFrameworkCore\\ObliDA.EntityFrameworkCore.csproj",
-        "packagesPath": "C:\\Users\\Rena\\.nuget\\packages\\",
-        "outputPath": "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\obliDA.EntityFrameworkCore\\obj\\",
+        "projectPath": "/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.EntityFrameworkCore/ObliDA.EntityFrameworkCore.csproj",
+        "packagesPath": "/Users/lucianotourn/.nuget/packages/",
+        "outputPath": "/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.EntityFrameworkCore/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Rena\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/lucianotourn/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\obliDA.Domain\\ObliDA.Domain.csproj": {
-                "projectPath": "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\obliDA.Domain\\ObliDA.Domain.csproj"
+              "/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.Domain/ObliDA.Domain.csproj": {
+                "projectPath": "/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.Domain/ObliDA.Domain.csproj"
               }
             }
           }
@@ -202,7 +196,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }

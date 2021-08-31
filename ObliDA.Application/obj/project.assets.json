@@ -1524,7 +1524,7 @@
   },
   "libraries": {
     "Microsoft.CSharp/4.5.0": {
-      "sha512": "kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
+      "sha512": "EGoBmf3Na2ppbhPePDE9PlX81r1HuOZH5twBrq7couJZiPTjUnD3648balerQJO6EJ8Sj+43+XuRwQ7r+3tE3w==",
       "type": "package",
       "path": "microsoft.csharp/4.5.0",
       "files": [
@@ -2200,7 +2200,7 @@
       ]
     },
     "Newtonsoft.Json/10.0.1": {
-      "sha512": "ebWzW9j2nwxQeBo59As2TYn7nYr9BHicqqCwHOD1Vdo+50HBtLPuqdiCYJcLdTRknpYis/DSEOQz5KmZxwrIAg==",
+      "sha512": "MOUhQfeI43upq9QiEv+7YYTDQPtEZEj9xB50MgplO1XF/aumP0f+TCYIHpZEmfsiahJJaXt/gdRFYLFEoF2VyQ==",
       "type": "package",
       "path": "newtonsoft.json/10.0.1",
       "hasTools": true,
@@ -4764,7 +4764,7 @@
       ]
     },
     "System.Security.Cryptography.Cng/4.5.0": {
-      "sha512": "WG3r7EyjUe9CMPFSs6bty5doUqT+q9pbI80hlNzo2SkPkZ4VTuZkGWjpp77JB8+uaL4DFPRdBsAY+DX3dBK92A==",
+      "sha512": "O4tqXxWCD8y1IU1VTgzbuBFwoRahrADhDUxHjwezhHCsqyFNyQ5EytjWBxu0EsZuH14b4UO2pFkG063K2h/9Ug==",
       "type": "package",
       "path": "system.security.cryptography.cng/4.5.0",
       "files": [
@@ -5703,12 +5703,12 @@
     "ObliDA.Domain/1.0.0": {
       "type": "project",
       "path": "../obliDA.Domain/ObliDA.Domain.csproj",
-      "msbuildProject": "../obliDA.Domain/ObliDA.Domain.csproj"
+      "msbuildProject": "../ObliDA.Domain/ObliDA.Domain.csproj"
     },
     "ObliDA.EntityFrameworkCore/1.0.0": {
       "type": "project",
       "path": "../obliDA.EntityFrameworkCore/ObliDA.EntityFrameworkCore.csproj",
-      "msbuildProject": "../obliDA.EntityFrameworkCore/ObliDA.EntityFrameworkCore.csproj"
+      "msbuildProject": "../ObliDA.EntityFrameworkCore/ObliDA.EntityFrameworkCore.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5718,41 +5718,39 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Rena\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/lucianotourn/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\obliDA.Application\\ObliDA.Application.csproj",
+      "projectUniqueName": "/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.Application/ObliDA.Application.csproj",
       "projectName": "ObliDA.Application",
-      "projectPath": "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\obliDA.Application\\ObliDA.Application.csproj",
-      "packagesPath": "C:\\Users\\Rena\\.nuget\\packages\\",
-      "outputPath": "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\obliDA.Application\\obj\\",
+      "projectPath": "/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.Application/ObliDA.Application.csproj",
+      "packagesPath": "/Users/lucianotourn/.nuget/packages/",
+      "outputPath": "/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.Application/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Rena\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/lucianotourn/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\ObliDA.domain\\ObliDA.Domain.csproj": {
-              "projectPath": "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\ObliDA.domain\\ObliDA.Domain.csproj"
+            "/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.Domain/ObliDA.Domain.csproj": {
+              "projectPath": "/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.Domain/ObliDA.Domain.csproj"
             },
-            "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\ObliDA.entityframeworkcore\\ObliDA.EntityFrameworkCore.csproj": {
-              "projectPath": "D:\\GOOGLE DRIVE\\DISEÑO DE APLICACIONES 2\\Repos\\PracticoDA\\PracticoDA\\ObliDA.entityframeworkcore\\ObliDA.EntityFrameworkCore.csproj"
+            "/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.EntityFrameworkCore/ObliDA.EntityFrameworkCore.csproj": {
+              "projectPath": "/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.EntityFrameworkCore/ObliDA.EntityFrameworkCore.csproj"
             }
           }
         }
@@ -5781,7 +5779,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }
