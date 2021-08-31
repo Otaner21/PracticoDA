@@ -10,8 +10,8 @@ using ObliDA.EntityFrameworkCore;
 namespace ObliDA.EntityFrameworkCore.Migrations
 {
     [DbContext(typeof(Context))]
-    [Migration("20210829142434_init")]
-    partial class init
+    [Migration("20210831005053_test")]
+    partial class test
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

@@ -1,17 +1,34 @@
-D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\obliDA.Application\bin\Debug\net5.0\ObliDA.Application.deps.json
-D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\obliDA.Application\bin\Debug\net5.0\ObliDA.Application.dll
-D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\obliDA.Application\bin\Debug\net5.0\ref\ObliDA.Application.dll
-D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\obliDA.Application\bin\Debug\net5.0\ObliDA.Application.pdb
-D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\obliDA.Application\bin\Debug\net5.0\ObliDA.Domain.dll
-D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\obliDA.Application\bin\Debug\net5.0\ObliDA.EntityFrameworkCore.dll
-D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\obliDA.Application\bin\Debug\net5.0\ObliDA.Domain.pdb
-D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\obliDA.Application\bin\Debug\net5.0\ObliDA.EntityFrameworkCore.pdb
-D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\obliDA.Application\obj\Debug\net5.0\ObliDA.Application.csproj.AssemblyReference.cache
-D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\obliDA.Application\obj\Debug\net5.0\ObliDA.Application.GeneratedMSBuildEditorConfig.editorconfig
-D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\obliDA.Application\obj\Debug\net5.0\ObliDA.Application.AssemblyInfoInputs.cache
-D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\obliDA.Application\obj\Debug\net5.0\ObliDA.Application.AssemblyInfo.cs
-D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\obliDA.Application\obj\Debug\net5.0\ObliDA.Application.csproj.CoreCompileInputs.cache
-D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\obliDA.Application\obj\Debug\net5.0\ObliDA.Application.csproj.CopyComplete
-D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\obliDA.Application\obj\Debug\net5.0\ObliDA.Application.dll
-D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\obliDA.Application\obj\Debug\net5.0\ref\ObliDA.Application.dll
-D:\GOOGLE DRIVE\DISEÑO DE APLICACIONES 2\Repos\PracticoDA\PracticoDA\obliDA.Application\obj\Debug\net5.0\ObliDA.Application.pdb
+D:/GOOGLE DRIVE/DISEÑO DE APLICACIONES 2/Repos/PracticoDA/PracticoDA/obliDA.Application/bin/Debug/net5.0/ObliDA.Application.deps.json
+D:/GOOGLE DRIVE/DISEÑO DE APLICACIONES 2/Repos/PracticoDA/PracticoDA/obliDA.Application/bin/Debug/net5.0/ObliDA.Application.dll
+D:/GOOGLE DRIVE/DISEÑO DE APLICACIONES 2/Repos/PracticoDA/PracticoDA/obliDA.Application/bin/Debug/net5.0/ref/ObliDA.Application.dll
+D:/GOOGLE DRIVE/DISEÑO DE APLICACIONES 2/Repos/PracticoDA/PracticoDA/obliDA.Application/bin/Debug/net5.0/ObliDA.Application.pdb
+D:/GOOGLE DRIVE/DISEÑO DE APLICACIONES 2/Repos/PracticoDA/PracticoDA/obliDA.Application/bin/Debug/net5.0/ObliDA.Domain.dll
+D:/GOOGLE DRIVE/DISEÑO DE APLICACIONES 2/Repos/PracticoDA/PracticoDA/obliDA.Application/bin/Debug/net5.0/ObliDA.EntityFrameworkCore.dll
+D:/GOOGLE DRIVE/DISEÑO DE APLICACIONES 2/Repos/PracticoDA/PracticoDA/obliDA.Application/bin/Debug/net5.0/ObliDA.Domain.pdb
+D:/GOOGLE DRIVE/DISEÑO DE APLICACIONES 2/Repos/PracticoDA/PracticoDA/obliDA.Application/bin/Debug/net5.0/ObliDA.EntityFrameworkCore.pdb
+D:/GOOGLE DRIVE/DISEÑO DE APLICACIONES 2/Repos/PracticoDA/PracticoDA/obliDA.Application/obj/Debug/net5.0/ObliDA.Application.csproj.AssemblyReference.cache
+D:/GOOGLE DRIVE/DISEÑO DE APLICACIONES 2/Repos/PracticoDA/PracticoDA/obliDA.Application/obj/Debug/net5.0/ObliDA.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:/GOOGLE DRIVE/DISEÑO DE APLICACIONES 2/Repos/PracticoDA/PracticoDA/obliDA.Application/obj/Debug/net5.0/ObliDA.Application.AssemblyInfoInputs.cache
+D:/GOOGLE DRIVE/DISEÑO DE APLICACIONES 2/Repos/PracticoDA/PracticoDA/obliDA.Application/obj/Debug/net5.0/ObliDA.Application.AssemblyInfo.cs
+D:/GOOGLE DRIVE/DISEÑO DE APLICACIONES 2/Repos/PracticoDA/PracticoDA/obliDA.Application/obj/Debug/net5.0/ObliDA.Application.csproj.CoreCompileInputs.cache
+D:/GOOGLE DRIVE/DISEÑO DE APLICACIONES 2/Repos/PracticoDA/PracticoDA/obliDA.Application/obj/Debug/net5.0/ObliDA.Application.csproj.CopyComplete
+D:/GOOGLE DRIVE/DISEÑO DE APLICACIONES 2/Repos/PracticoDA/PracticoDA/obliDA.Application/obj/Debug/net5.0/ObliDA.Application.dll
+D:/GOOGLE DRIVE/DISEÑO DE APLICACIONES 2/Repos/PracticoDA/PracticoDA/obliDA.Application/obj/Debug/net5.0/ref/ObliDA.Application.dll
+D:/GOOGLE DRIVE/DISEÑO DE APLICACIONES 2/Repos/PracticoDA/PracticoDA/obliDA.Application/obj/Debug/net5.0/ObliDA.Application.pdb
+/Users/lucianotourn/Documents/GitHub/PracticoDA/obliDA.Application/bin/Debug/net5.0/ObliDA.Application.deps.json
+/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.Application/bin/Debug/net5.0/ObliDA.Application.dll
+/Users/lucianotourn/Documents/GitHub/PracticoDA/obliDA.Application/bin/Debug/net5.0/ref/ObliDA.Application.dll
+/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.Application/bin/Debug/net5.0/ObliDA.Application.pdb
+/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.Application/bin/Debug/net5.0/ObliDA.Domain.dll
+/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.Application/bin/Debug/net5.0/ObliDA.EntityFrameworkCore.dll
+/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.Application/bin/Debug/net5.0/ObliDA.Domain.pdb
+/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.Application/bin/Debug/net5.0/ObliDA.EntityFrameworkCore.pdb
+/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.Application/obj/Debug/net5.0/ObliDA.Application.csproj.AssemblyReference.cache
+/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.Application/obj/Debug/net5.0/ObliDA.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.Application/obj/Debug/net5.0/ObliDA.Application.AssemblyInfoInputs.cache
+/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.Application/obj/Debug/net5.0/ObliDA.Application.AssemblyInfo.cs
+/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.Application/obj/Debug/net5.0/ObliDA.Application.csproj.CoreCompileInputs.cache
+/Users/lucianotourn/Documents/GitHub/PracticoDA/obliDA.Application/obj/Debug/net5.0/ObliDA.Application.csproj.CopyComplete
+/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.Application/obj/Debug/net5.0/ObliDA.Application.dll
+/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.Application/obj/Debug/net5.0/ref/ObliDA.Application.dll
+/Users/lucianotourn/Documents/GitHub/PracticoDA/ObliDA.Application/obj/Debug/net5.0/ObliDA.Application.pdb

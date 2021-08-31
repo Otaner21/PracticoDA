@@ -10,7 +10,7 @@ namespace ObliDA.EntityFrameworkCore
         public Context CreateDbContext(string[] args)
         {
             var builder = new DbContextOptionsBuilder<Context>();
-            builder.UseSqlServer(@"Server=DESKTOP-MNVS5C9\SQLSERVERLOCAL;Database=OtanerObli;Trusted_Connection=True;");
+            builder.UseSqlServer(@"Server=localhost,1433\\Catalog=tutorial_database;Database=Test;User=SA;Password=obligatorioDA2;");
             return new Context(builder.Options);
         }
     }
