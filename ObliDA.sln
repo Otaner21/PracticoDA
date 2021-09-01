@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObliDA.Application", "obliD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObliDA.Domain", "obliDA.Domain\ObliDA.Domain.csproj", "{C7141134-5BBC-4593-875F-E2F826D3CF9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moodle.BusinessLogic.Test", "Moodle.Businesslogic.test\Moodle.BusinessLogic.Test.csproj", "{1E58454A-4D39-4637-8996-8E63968D4EFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,17 @@ Global
 		{C7141134-5BBC-4593-875F-E2F826D3CF9C}.Release|x64.Build.0 = Release|Any CPU
 		{C7141134-5BBC-4593-875F-E2F826D3CF9C}.Release|x86.ActiveCfg = Release|Any CPU
 		{C7141134-5BBC-4593-875F-E2F826D3CF9C}.Release|x86.Build.0 = Release|Any CPU
+		{1E58454A-4D39-4637-8996-8E63968D4EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E58454A-4D39-4637-8996-8E63968D4EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E58454A-4D39-4637-8996-8E63968D4EFD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1E58454A-4D39-4637-8996-8E63968D4EFD}.Debug|x64.Build.0 = Debug|Any CPU
+		{1E58454A-4D39-4637-8996-8E63968D4EFD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1E58454A-4D39-4637-8996-8E63968D4EFD}.Debug|x86.Build.0 = Debug|Any CPU
+		{1E58454A-4D39-4637-8996-8E63968D4EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E58454A-4D39-4637-8996-8E63968D4EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E58454A-4D39-4637-8996-8E63968D4EFD}.Release|x64.ActiveCfg = Release|Any CPU
+		{1E58454A-4D39-4637-8996-8E63968D4EFD}.Release|x64.Build.0 = Release|Any CPU
+		{1E58454A-4D39-4637-8996-8E63968D4EFD}.Release|x86.ActiveCfg = Release|Any CPU
+		{1E58454A-4D39-4637-8996-8E63968D4EFD}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
